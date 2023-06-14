@@ -33,10 +33,14 @@ not sure what the placeholder returns. But after some trial and error - messages
 correctionMode: "NONE"
 ```
 
+----------------------------------------------------
+
 ## :memo: Issues and suggestions
 
 Any issues, suggestions or other questions should be asked [here](https://github.com/Kamilkime-Plugins/RelChat/issues). If you do not have
 a Github account you may contact me on Discord — `@kamilkime`.
+
+----------------------------------------------------
 
 ## :unlock: License
 
