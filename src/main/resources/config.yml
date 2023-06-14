@@ -1,0 +1,7 @@
+# Correction mode, used for format correction of the returned placeholder value
+# If e.g. RGB colors in the chat format are not correct — try changing the mode to one of the legacy ones
+# Available modes:
+#   LEGACY_AMPERSAND — corrects & characters in the returned text
+#   LEGACY_SECTION — corrects § characters in the returned text
+#   NONE — no correction, creates a component from raw text
+correctionMode: "NONE"

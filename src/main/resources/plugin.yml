@@ -1,0 +1,7 @@
+name: "RelChat"
+version: "1.0.0"
+main: "pl.kamilkime.relchat.RelChat"
+api-version: "1.16"
+softdepend: ["PlaceholderAPI", "LPC", "ChatControl", "EssentialsChat"]
+author: "Kamilkime"
+website: "https://kamilki.me/"
